@@ -2,8 +2,8 @@
 
 Check your DPDC prepaid electricity meter balance directly from Raycast.
 
-<!-- TODO: Add screenshot -->
-<!-- ![DPDC Balance Screenshot](assets/screenshot.png) -->
+<img width="1000" height="625" alt="dpdc-balance 2026-06-27 at 20 04 10" src="https://github.com/user-attachments/assets/d6564dd6-cafd-4fd6-a0d6-f67882646185" />
+
 
 ## Commands
 
